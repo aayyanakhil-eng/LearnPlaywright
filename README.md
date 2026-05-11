@@ -7,3 +7,4 @@ A collection of exercises and notes for learning Playwright automation testing.
 - **Chapter 01 - Basics**: JavaScript fundamentals and Playwright setup verification
 - **Chapter 02 - JavaScript Basics & Keyboard Shortcuts**: Core JS concepts and editor shortcuts
 - **Chapter 03 - Identifiers**: JavaScript identifier rules, naming conventions, and comments
+- **Chapter 04 - Var, Let, Const**: Variable declarations, scoping, hoisting, and functions
